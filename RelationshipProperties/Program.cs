@@ -129,10 +129,10 @@ namespace RelationshipProperties
 
             if (IsSymmetric())
                 Console.WriteLine("Симметричные");
-            else if (IsAsymmetric())
-                Console.WriteLine("Ассимитричные");
-            else
+            else if (IsAntisemetric())
                 Console.WriteLine("Антисимметричные");
+            else if (IsAsymmetric())
+                Console.WriteLine("Ассимитричные");            
 
             if (IsConnective())
                 Console.WriteLine("Связные");
@@ -167,6 +167,18 @@ namespace RelationshipProperties
                 for (int j = 0; j < mat.GetLength(1); j++)
                 {
                     if (mat[i, j] != mat[j, i]) return false;
+                }
+            }
+            return true;
+        }
+
+        static bool IsAntisemetric()
+        {
+            for (int i = 0; i < mat.GetLength(0); i++)
+            {
+                for (int j = 0; j < mat.GetLength(1); j++)
+                {
+                    if (i != j && mat[i, j] == mat[j, i]) return false;
                 }
             }
             return true;
