@@ -14,3 +14,19 @@ D:\Projects\C#\DiscreteMath\RelationshipProperties\RelationshipProperties\obj\De
 D:\Projects\C#\DiscreteMath\RelationshipProperties\RelationshipProperties\obj\Debug\net5.0\ref\RelationshipProperties.dll
 D:\Projects\C#\DiscreteMath\RelationshipProperties\RelationshipProperties\obj\Debug\net5.0\RelationshipProperties.pdb
 D:\Projects\C#\DiscreteMath\RelationshipProperties\RelationshipProperties\obj\Debug\net5.0\RelationshipProperties.genruntimeconfig.cache
+D:\University\2 year\DiscreteMath\RelationshipProperties\RelationshipProperties\bin\Debug\net5.0\RelationshipProperties.exe
+D:\University\2 year\DiscreteMath\RelationshipProperties\RelationshipProperties\bin\Debug\net5.0\RelationshipProperties.deps.json
+D:\University\2 year\DiscreteMath\RelationshipProperties\RelationshipProperties\bin\Debug\net5.0\RelationshipProperties.runtimeconfig.json
+D:\University\2 year\DiscreteMath\RelationshipProperties\RelationshipProperties\bin\Debug\net5.0\RelationshipProperties.runtimeconfig.dev.json
+D:\University\2 year\DiscreteMath\RelationshipProperties\RelationshipProperties\bin\Debug\net5.0\RelationshipProperties.dll
+D:\University\2 year\DiscreteMath\RelationshipProperties\RelationshipProperties\bin\Debug\net5.0\ref\RelationshipProperties.dll
+D:\University\2 year\DiscreteMath\RelationshipProperties\RelationshipProperties\bin\Debug\net5.0\RelationshipProperties.pdb
+D:\University\2 year\DiscreteMath\RelationshipProperties\RelationshipProperties\obj\Debug\net5.0\RelationshipProperties.csproj.AssemblyReference.cache
+D:\University\2 year\DiscreteMath\RelationshipProperties\RelationshipProperties\obj\Debug\net5.0\RelationshipProperties.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\2 year\DiscreteMath\RelationshipProperties\RelationshipProperties\obj\Debug\net5.0\RelationshipProperties.AssemblyInfoInputs.cache
+D:\University\2 year\DiscreteMath\RelationshipProperties\RelationshipProperties\obj\Debug\net5.0\RelationshipProperties.AssemblyInfo.cs
+D:\University\2 year\DiscreteMath\RelationshipProperties\RelationshipProperties\obj\Debug\net5.0\RelationshipProperties.csproj.CoreCompileInputs.cache
+D:\University\2 year\DiscreteMath\RelationshipProperties\RelationshipProperties\obj\Debug\net5.0\RelationshipProperties.dll
+D:\University\2 year\DiscreteMath\RelationshipProperties\RelationshipProperties\obj\Debug\net5.0\ref\RelationshipProperties.dll
+D:\University\2 year\DiscreteMath\RelationshipProperties\RelationshipProperties\obj\Debug\net5.0\RelationshipProperties.pdb
+D:\University\2 year\DiscreteMath\RelationshipProperties\RelationshipProperties\obj\Debug\net5.0\RelationshipProperties.genruntimeconfig.cache

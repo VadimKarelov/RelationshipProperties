@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\C#\\DiscreteMath\\RelationshipProperties\\RelationshipProperties\\RelationshipProperties.csproj": {}
+    "D:\\University\\2 year\\DiscreteMath\\RelationshipProperties\\RelationshipProperties\\RelationshipProperties.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\C#\\DiscreteMath\\RelationshipProperties\\RelationshipProperties\\RelationshipProperties.csproj": {
+    "D:\\University\\2 year\\DiscreteMath\\RelationshipProperties\\RelationshipProperties\\RelationshipProperties.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\C#\\DiscreteMath\\RelationshipProperties\\RelationshipProperties\\RelationshipProperties.csproj",
+        "projectUniqueName": "D:\\University\\2 year\\DiscreteMath\\RelationshipProperties\\RelationshipProperties\\RelationshipProperties.csproj",
         "projectName": "RelationshipProperties",
-        "projectPath": "D:\\Projects\\C#\\DiscreteMath\\RelationshipProperties\\RelationshipProperties\\RelationshipProperties.csproj",
+        "projectPath": "D:\\University\\2 year\\DiscreteMath\\RelationshipProperties\\RelationshipProperties\\RelationshipProperties.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\C#\\DiscreteMath\\RelationshipProperties\\RelationshipProperties\\obj\\",
+        "outputPath": "D:\\University\\2 year\\DiscreteMath\\RelationshipProperties\\RelationshipProperties\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\IDE\\Microsoft Visual Studio\\Shared\\NuGetPackages",
